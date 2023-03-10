@@ -16,3 +16,5 @@ This project looks at 3 different strategies:
 Within the model is also 2 interactive dashboards
   + Comparing the performance of 2 different branches
   + Comparing the performance of 2 different types of cars
+  
+ The Dashboard utilizes Microsoft Excel (Pivot Table, Pivot Chart, data cleaning, aggregating data, predictive modeling) and presentation using Microsoft PowerPoint (animation, transition, design principal).
